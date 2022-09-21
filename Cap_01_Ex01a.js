@@ -1,0 +1,8 @@
+const numero = Number(prompt("Qual o número:"));
+const vizMenor = numero - 1;
+const vizMaior = numero + 1;
+alert("${vizMenor} e ${vizMaior}");
+
+//console.log(vizMaior);
+//console.log(vizMenor);
+
